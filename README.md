@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NivedyaSheej
+- 👋 Hi, I’m @NivedyaS
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning BTech CSE 
 - 💞️ I’m looking to collaborate on projects that are super challenging & engaging
